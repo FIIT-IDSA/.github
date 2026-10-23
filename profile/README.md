@@ -1,3 +1,1 @@
-<!-- TODO: Update this section later 
-![IDSA](idsa-horizontal.png)
--->
+![IDSA](img/idc-horizontal.png)
